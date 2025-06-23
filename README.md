@@ -9,15 +9,23 @@
     <img align="right" alt="codder" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak2864&label=Profile%20views&color=0e75b6&style=flat" alt="deepak2864" /> </p>
+<p align="right" width="50%"> 
+ 
+- 👋 Hi, I’m @deepak2864
 
-- 🔭 I’m currently working on **E-commerece**
+- 🌱 I’m currently learning *Full-Stack Development, Flutter Developer etc*
 
-- 👨‍💻 All of my projects are available at [portfolio deepak](portfolio deepak)
+- 👨‍💻 All of my projects are available at [Hitesh_Kumar_Portfolio](https://hitesh-kumar-portfolio.vercel.app/)
 
-- 📫 How to reach me **pnchaldeepak82@gmail.com**
+- 💬 Ask me about * Flutter, Dart, Python, etc *
 
-- 📄 Know about my experiences [resume](resume)
+- 📫 How to reach me *pnchaldeepak82@gmail.com*
+
+- 📄 Know about my experiences [Deepak Resume](https://drive.google.com/file/d/1VGWdYDYe9Dy0xG-2NOZpxFN4tv8i6fD9/view?usp=sharing)
+
+- ⚡ Fun fact *I think I can code.*
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
