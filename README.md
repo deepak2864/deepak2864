@@ -2,18 +2,14 @@
     <img align="center" width="70%" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="codder">
 </div>
 
-<h1 align="center">Hi 👋, This is Hitesh Kumar</h1>
-<h3 align="center">A passionate developer who is trying to learn & Do stuffs.</h3>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <div>
     <img align="right" alt="codder" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak2864&label=Profile%20views&color=0e75b6&style=flat" alt="deepak2864" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak2864" alt="deepak2864" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerece**
 
